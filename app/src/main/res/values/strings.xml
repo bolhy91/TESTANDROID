@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="welcome">Welcome back! Registration Form</string>
+    <string name="comments">Comments</string>
+</resources>
